@@ -15,17 +15,3 @@ This is a simple React-based survey application that allows users to answer a se
 - **CSS**: For styling the survey interface.
 - **Local Storage**: To persist user responses.
 
-## Project Structure
-
-├── public
-│   └── index.html        # Entry point for the app
-├── src
-│   ├── components
-│   │   └── Survey.js      # Main survey component
-│   ├── data
-│   │   └── questions.js   # List of survey questions
-│   ├── utils
-│   │   └── localStorageUtils.js   # Utility functions for local storage
-│   ├── App.js            # Root component
-│   └── index.js          # Entry point for React
-└── README.md             # Project documentation
