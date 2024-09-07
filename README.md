@@ -15,3 +15,11 @@ This is a simple React-based survey application that allows users to answer a se
 - **CSS**: For styling the survey interface.
 - **Local Storage**: To persist user responses.
 
+ ## WelcomeScreen 
+ 
+<img width="1440" alt="Welcomescreen" src="https://github.com/user-attachments/assets/2cfe5ce0-622e-4fbb-8880-c50e3dc205ae">
+
+## Survey
+
+<img width="1440" alt="Survey" src="https://github.com/user-attachments/assets/6fbe7222-6f0b-474f-9d1e-f89a2ffa49ea">
+
