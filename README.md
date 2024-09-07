@@ -17,9 +17,11 @@ This is a simple React-based survey application that allows users to answer a se
 
  ## WelcomeScreen 
  
-<img width="1440" alt="Welcomescreen" src="https://github.com/user-attachments/assets/2cfe5ce0-622e-4fbb-8880-c50e3dc205ae">
+<img width="1440" alt="Welcomescreen" src="https://github.com/user-attachments/assets/65ac707c-3547-4b0a-8289-8765a4379763">
+
 
 ## Survey
 
-<img width="1440" alt="Survey" src="https://github.com/user-attachments/assets/6fbe7222-6f0b-474f-9d1e-f89a2ffa49ea">
+<img width="1440" alt="Survey" src="https://github.com/user-attachments/assets/7ac31d8b-1e1d-40ca-ae3f-eb0701d95b13">
+
 
